@@ -124,20 +124,3 @@ The course is comprised of the following elements:
     Weekly Quizzes. Each weekly module will include one for-credit quiz. You will be allowed three attempts per every eight hours at each quiz. There is no time limit on how long you take to complete each attempt at the quiz. Each attempt may present a different selection of questions to you. Your highest score will be used when calculating your final score in the class.
 
     Discussion Prompts. There will be one optional discussion activity in each module in which you will have a choice of questions to answer.
-
-How to Pass This Course
-
-To qualify for a Course Certificate, simply start verifying your coursework at the beginning of the course and pay the fee. Coursera Financial Aid is available to offset the registration cost for learners with demonstrated economic needs. If you have questions about Course Certificates, please see the help topics here.
-
-If you choose not to pay the fee, you can still audit the course. You will still be able to view all videos, submit practice quizzes, and view required assessments. Auditing does not include the option to submit required assessments. As such, you will not be able to earn a grade or a Course Certificate.
-
-You must pass every required Weekly Quiz with a score of 80% or higher in order to pass this course.
-Getting and Giving Help
-
-You can get/give help via the following means:
-
-    Use the Learner Help Center to find information regarding specific technical problems. For example, technical problems would include error messages, difficulty submitting assignments, or problems with video playback. If you cannot find an answer in the documentation, you can also report your problem to the Coursera staff by clicking on the Contact Us! link available on each topic's page within the Learner Help Center.
-
-    Use the Content Issues forum to report errors in lecture video content, assignment questions and answers, assignment grading, text and links on course pages, or the content of other course materials. University of Illinois staff and Community Mentors will monitor this forum and respond to issues.
-
-Note: Due to the large number of learners enrolled in this course, I am not able to answer emails sent directly to my account. Rather, all questions should be reported as described above.
