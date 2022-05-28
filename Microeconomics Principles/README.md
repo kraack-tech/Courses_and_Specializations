@@ -1,2 +1,2 @@
 # Microeconomics Principles
-### University of Illinois at Urbana-Champaign
+#### By University of Illinois at Urbana-Champaign
