@@ -1,0 +1,20 @@
+# The Power of Macroeconomics: Economic Principles in the Real World
+#### By University of California, Irvine
+
+Syllabus
+Welcome to the Power of Macroeconomics!
+In this course, you will learn all of the major principles of macroeconomics normally taught in a quarter or semester course to college undergraduates or MBA students. Perhaps more importantly, you will also learn how to apply these principles to a wide variety of situations in both your personal and professional lives. In this way, the Power of Macroeconomics will help you prosper in an increasingly competitive and globalized environment.
+Note that this course is a companion to the Power of Microeconomics. If you take both courses, you will learn all of the major principles normally taught in a year-long introductory economics college course.
+Course Format
+This is a complete college and MBA-level course in the principles of macroeconomics as normally taught in a quarter or semester time frame. The centerpiece of the course is a set of eleven modules, broken down into 5 to 7 topics per multimedia presentations that are specifically designed to simulate the traditional classroom lecture experience. Each module covers topics such as inflation, unemployment, fiscal policy, monetary policy, and, in this age of globalization, exchange rates and the economics of free trade. These multimedia presentations feature a digitally-mastered audio sound track; and each slide in a typical presentation may include bulleted material from the audio track, dynamically constructed graphs such as the Keynesian model, animated charts and figures, historical photos of people such as Adam Smith, John Maynard Keynes and Ben Bernanke, or some combination thereof.
+To make these modules as interesting – and as fun – as possible, each is highly interactive so that throughout each module, you will be asked numerous questions and you should feel free at any time to put the presentation on pause as you contemplate possible answers. In each module you will also be prompted to reflect on a question related to the topic and encouraged to discuss this question with your fellow classmates. After each module, you will be able to take an online quiz and check both your grade and your answers. At the end of the course, you will then be able to take a final exam online to see how well you did in the course.
+Course Readings & Resources
+It is unnecessary to use a standard macroeconomics textbook to learn the material presented in this course. However, I heartily can recommend Macroeconomics by David Colander published by McGraw-Hill-Hill as an optional text. This is perhaps my favorite textbook because it emphasizes the historical evolution of macroeconomic theory and practice – one of the major themes of this course.
+As you take this course, you may also want to keep up with the latest macroeconomic news by reading newspapers like the Financial Times or Wall Street Journal or perhaps subscribing to the weekly magazine The Economist.
+My own book, Always a Winner, may be useful if you are interested in learning more about forecasting the economy and business cycle and using that forecasting information to strategically manage a firm or organization.
+If you are more interested in a career in money management or want to learn more about how an understanding of macroeconomics can help you better manage your own investment portfolio, you may also want to read my book When the Market Moves, Will You Be Ready? as an optional text.
+Quizzes
+At the end of each module you will have an opportunity to check your knowledge and skills by taking a brief quiz. These quizzes will count for a cumulative 22% of your final course grade. You will be able to take the quizzes up to three times. This should allow for any technical or timing issues you may encounter. Please note that your final grade for the quiz will be the highest score you receive of all of your attempts.
+Exams
+There is one final exam for this course. This exam will assess your macroeconomics knowledge and skills built throughout the course. The final exam will count for 78% of your final course grade.
+
